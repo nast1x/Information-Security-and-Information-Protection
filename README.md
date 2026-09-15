@@ -1,4 +1,4 @@
-# [На главную](https://github.com/nast1x/Information-Security-and-Information-Protection)
+# [На главную](https://github.com/nast1x/spbstu_maga)
 
 ### Курс "Информационная безопасность и защита информации"
 
